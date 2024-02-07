@@ -23,7 +23,7 @@ public class Employee {
         this(name);
         this.age = age;
 
-    }public
+    }
 
 
 }
