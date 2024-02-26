@@ -1,4 +1,4 @@
-package day15_practice_tasks;
+package day16_practice_tasks;
 
 import java.util.Arrays;
 import java.util.Set;
