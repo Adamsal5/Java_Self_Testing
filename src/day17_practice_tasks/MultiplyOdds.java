@@ -1,4 +1,4 @@
-package day16_practice_tasks;
+package day17_practice_tasks;
 
 import java.util.HashMap;
 import java.util.Iterator;
